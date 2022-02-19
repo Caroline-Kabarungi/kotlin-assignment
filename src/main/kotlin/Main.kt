@@ -1,11 +1,11 @@
 fun main (){
-        var Name = "Kabarungi caroline"
+        var Name = "student name"
         println(Name)
-        var Age = "20"
+        var Age = "age number"
         println(Age)
-        var Phonenumber = "0771420924"
+        var Phonenumber = "telephone"
         println(Phonenumber)
-        var Weight = "59"
+        var Weight = "weight number"
         println(Weight)
         val isKenyan:Boolean =true
         println(isKenyan) //output true
